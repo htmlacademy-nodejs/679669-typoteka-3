@@ -1,7 +1,7 @@
 # Личный проект «Типотека» [![Build status][travis-image]][travis-url]
 
 * Студент: [Евгений Антропов](https://up.htmlacademy.ru/nodejs/3/user/679669).
-* Наставник: `Неизвестно`.
+* Наставник: [Юрий Кучма](https://htmlacademy.ru/profile/krabaton).
 
 ---
 
